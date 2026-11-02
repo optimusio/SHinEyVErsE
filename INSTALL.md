@@ -17,7 +17,7 @@ If ComfyUI is on a different host or port, update `COMFY_URL` in `app.py`.
 ## 2. Clone this repository
 
 ```bash
-git clone https://github.com/dqikfox/SHinEyVErsE.git
+git clone https://github.com/optimusio/SHinEyVErsE.git
 cd SHinEyVErsE
 ```
 

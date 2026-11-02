@@ -6,7 +6,7 @@ Built with FastAPI. One Python file, no build step, no frontend framework.
 
 ## Repository
 
-- Source: https://github.com/dqikfox/SHinEyVErsE
+- Source: https://github.com/optimusio/SHinEyVErsE
 - License: MIT
 
 ## Quick start
@@ -42,7 +42,7 @@ You only need the assets for the modes you plan to use. If a filename differs fr
 ## Setup
 
 ```bash
-git clone https://github.com/dqikfox/SHinEyVErsE.git
+git clone https://github.com/optimusio/SHinEyVErsE.git
 cd SHinEyVErsE
 python -m venv venv
 venv\Scripts\activate          # Windows
